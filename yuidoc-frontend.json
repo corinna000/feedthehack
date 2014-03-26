@@ -1,0 +1,11 @@
+{
+	"name": "app",
+    "description": "Application for Feed the Hack",
+    "version": "0.0.0",
+    "url": "https://github.com/corinna000/app",
+    "options": {
+        "paths": "./app/src/",
+        "outdir": "yuidocs/frontend",
+        "exclude": "bower_components,build,deploys,test"
+    }
+}

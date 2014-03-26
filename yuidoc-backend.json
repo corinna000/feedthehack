@@ -1,0 +1,11 @@
+{
+    "name": "app",
+    "description": "Application for Feed the Hack",
+    "version": "0.0.0",
+    "url": "https://github.com/corinna000/app",
+    "options": {
+        "paths": ".",
+        "outdir": "yuidocs/backend",
+        "exclude": "node_modules,public,src"
+    }
+}
