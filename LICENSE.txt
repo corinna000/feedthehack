@@ -1,0 +1,10 @@
+Copyright (c) 2014, Andrew McConnell and Corinna Cohn.
+All rights reserved.
+
+This software includes third party open source software components. Each of
+these software components have their own license. Please see the following
+files:
+
+*  vendor/zendframework/zendframework/LICENSE.txt
+*  docs/ZendSkeletonApplication/LICENSE.txt
+*  contrib/tikonen/LICENSE.txt
