@@ -36,7 +36,7 @@ class Module
             'factories' => array(
                 'User\UserResourceListener' => function ($services) {
                     $persistence = $services->get('User\PersistenceInterface');
-                    $authAdapter = $services->get('zfcuser_auth_service');
+                    $authService = $services->get('zfcuser_auth_service');
                     $hybridAuth = $services->get('HybridAuth');
                     return new UserResourceListener($persistence, $authService, $hybridAuth);
                 },
