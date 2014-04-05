@@ -1,0 +1,313 @@
+2014-03-30 17:02:13.755 HelloCordova[47872:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 17:02:13.794 HelloCordova[47872:80b] Unlimited access to network resources
+2014-03-30 17:02:14.014 HelloCordova[47872:80b] [CDVTimer][statusbar] 49.392998ms
+2014-03-30 17:02:14.015 HelloCordova[47872:80b] [CDVTimer][TotalPluginStartup] 50.054014ms
+2014-03-30 17:02:14.183 HelloCordova[47872:80b] Resetting plugins due to page load.
+2014-03-30 17:02:14.543 HelloCordova[47872:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/playlists
+2014-03-30 17:09:40.812 HelloCordova[48175:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 17:09:40.842 HelloCordova[48175:80b] Unlimited access to network resources
+2014-03-30 17:09:41.037 HelloCordova[48175:80b] [CDVTimer][statusbar] 63.928008ms
+2014-03-30 17:09:41.038 HelloCordova[48175:80b] [CDVTimer][TotalPluginStartup] 64.601004ms
+2014-03-30 17:09:41.243 HelloCordova[48175:80b] Resetting plugins due to page load.
+2014-03-30 17:09:41.992 HelloCordova[48175:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/playlists
+2014-03-30 22:56:24.768 HelloCordova[48927:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 22:56:24.804 HelloCordova[48927:80b] Unlimited access to network resources
+2014-03-30 22:56:25.016 HelloCordova[48927:80b] [CDVTimer][statusbar] 56.241035ms
+2014-03-30 22:56:25.016 HelloCordova[48927:80b] [CDVTimer][TotalPluginStartup] 56.895018ms
+2014-03-30 22:56:25.275 HelloCordova[48927:80b] Resetting plugins due to page load.
+2014-03-30 22:56:25.581 HelloCordova[48927:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/playlists
+2014-03-30 22:58:23.079 HelloCordova[49267:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 22:58:23.092 HelloCordova[49267:80b] Unlimited access to network resources
+2014-03-30 22:58:24.050 HelloCordova[49267:80b] [CDVTimer][statusbar] 17.341971ms
+2014-03-30 22:58:24.051 HelloCordova[49267:80b] [CDVTimer][TotalPluginStartup] 17.948985ms
+2014-03-30 22:58:24.660 HelloCordova[49267:80b] Resetting plugins due to page load.
+2014-03-30 22:58:24.809 HelloCordova[49267:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/play
+2014-03-30 23:02:18.162 HelloCordova[49606:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:02:18.172 HelloCordova[49606:80b] Unlimited access to network resources
+2014-03-30 23:02:18.211 HelloCordova[49606:80b] [CDVTimer][statusbar] 14.353037ms
+2014-03-30 23:02:18.211 HelloCordova[49606:80b] [CDVTimer][TotalPluginStartup] 15.009046ms
+2014-03-30 23:02:18.401 HelloCordova[49606:80b] Resetting plugins due to page load.
+2014-03-30 23:02:18.608 HelloCordova[49606:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/play
+2014-03-30 23:11:05.412 HelloCordova[49950:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:11:05.443 HelloCordova[49950:80b] Unlimited access to network resources
+2014-03-30 23:11:05.718 HelloCordova[49950:80b] [CDVTimer][statusbar] 143.491030ms
+2014-03-30 23:11:05.718 HelloCordova[49950:80b] [CDVTimer][TotalPluginStartup] 144.245982ms
+2014-03-30 23:11:05.969 HelloCordova[49950:80b] Resetting plugins due to page load.
+2014-03-30 23:11:06.379 HelloCordova[49950:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+Terminating in response to SpringBoard's termination.
+2014-03-30 23:12:00.927 HelloCordova[50154:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:12:00.977 HelloCordova[50154:80b] Unlimited access to network resources
+2014-03-30 23:12:01.075 HelloCordova[50154:80b] [CDVTimer][statusbar] 18.437028ms
+2014-03-30 23:12:01.076 HelloCordova[50154:80b] [CDVTimer][TotalPluginStartup] 19.056022ms
+2014-03-30 23:12:01.266 HelloCordova[50154:80b] Resetting plugins due to page load.
+2014-03-30 23:12:01.935 HelloCordova[50154:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:16:18.612 HelloCordova[50518:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:16:18.623 HelloCordova[50518:80b] Unlimited access to network resources
+2014-03-30 23:16:18.665 HelloCordova[50518:80b] [CDVTimer][statusbar] 19.950032ms
+2014-03-30 23:16:18.665 HelloCordova[50518:80b] [CDVTimer][TotalPluginStartup] 20.444989ms
+2014-03-30 23:16:18.810 HelloCordova[50518:80b] Resetting plugins due to page load.
+2014-03-30 23:16:19.144 HelloCordova[50518:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+Terminating in response to SpringBoard's termination.
+2014-03-30 23:20:48.831 HelloCordova[50718:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:20:48.867 HelloCordova[50718:80b] Unlimited access to network resources
+2014-03-30 23:20:49.244 HelloCordova[50718:80b] [CDVTimer][statusbar] 77.979982ms
+2014-03-30 23:20:49.248 HelloCordova[50718:80b] [CDVTimer][TotalPluginStartup] 82.382023ms
+2014-03-30 23:20:49.528 HelloCordova[50718:80b] Resetting plugins due to page load.
+2014-03-30 23:20:50.243 HelloCordova[50718:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:23:20.970 HelloCordova[51059:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:23:21.004 HelloCordova[51059:80b] Unlimited access to network resources
+2014-03-30 23:23:21.273 HelloCordova[51059:80b] [CDVTimer][statusbar] 60.722947ms
+2014-03-30 23:23:21.274 HelloCordova[51059:80b] [CDVTimer][TotalPluginStartup] 61.364055ms
+2014-03-30 23:23:21.457 HelloCordova[51059:80b] Resetting plugins due to page load.
+2014-03-30 23:23:22.050 HelloCordova[51059:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:26:01.355 HelloCordova[51370:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:26:01.363 HelloCordova[51370:80b] Unlimited access to network resources
+2014-03-30 23:26:01.398 HelloCordova[51370:80b] [CDVTimer][statusbar] 15.186965ms
+2014-03-30 23:26:01.399 HelloCordova[51370:80b] [CDVTimer][TotalPluginStartup] 15.718997ms
+2014-03-30 23:26:01.497 HelloCordova[51370:80b] Resetting plugins due to page load.
+2014-03-30 23:26:01.723 HelloCordova[51370:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:27:19.864 HelloCordova[51532:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:27:19.872 HelloCordova[51532:80b] Unlimited access to network resources
+2014-03-30 23:27:19.903 HelloCordova[51532:80b] [CDVTimer][statusbar] 10.621965ms
+2014-03-30 23:27:19.903 HelloCordova[51532:80b] [CDVTimer][TotalPluginStartup] 11.164010ms
+2014-03-30 23:27:19.970 HelloCordova[51532:80b] Resetting plugins due to page load.
+2014-03-30 23:27:20.204 HelloCordova[51532:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:28:31.638 HelloCordova[51730:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:28:31.651 HelloCordova[51730:80b] Unlimited access to network resources
+2014-03-30 23:28:31.701 HelloCordova[51730:80b] [CDVTimer][statusbar] 22.680998ms
+2014-03-30 23:28:31.702 HelloCordova[51730:80b] [CDVTimer][TotalPluginStartup] 23.536026ms
+2014-03-30 23:28:31.870 HelloCordova[51730:80b] Resetting plugins due to page load.
+2014-03-30 23:28:32.215 HelloCordova[51730:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:29:41.323 HelloCordova[52033:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:29:41.330 HelloCordova[52033:80b] Unlimited access to network resources
+2014-03-30 23:29:41.366 HelloCordova[52033:80b] [CDVTimer][statusbar] 15.011966ms
+2014-03-30 23:29:41.366 HelloCordova[52033:80b] [CDVTimer][TotalPluginStartup] 15.545011ms
+2014-03-30 23:29:41.465 HelloCordova[52033:80b] Resetting plugins due to page load.
+2014-03-30 23:29:41.697 HelloCordova[52033:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:35:16.757 HelloCordova[52767:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:35:16.771 HelloCordova[52767:80b] Unlimited access to network resources
+2014-03-30 23:35:16.816 HelloCordova[52767:80b] [CDVTimer][statusbar] 17.617047ms
+2014-03-30 23:35:16.817 HelloCordova[52767:80b] [CDVTimer][TotalPluginStartup] 18.249989ms
+2014-03-30 23:35:16.980 HelloCordova[52767:80b] Resetting plugins due to page load.
+2014-03-30 23:35:17.333 HelloCordova[52767:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:38:25.160 HelloCordova[53115:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:38:25.191 HelloCordova[53115:80b] Unlimited access to network resources
+2014-03-30 23:38:25.488 HelloCordova[53115:80b] [CDVTimer][statusbar] 75.470984ms
+2014-03-30 23:38:25.491 HelloCordova[53115:80b] [CDVTimer][TotalPluginStartup] 78.804016ms
+2014-03-30 23:38:25.669 HelloCordova[53115:80b] Resetting plugins due to page load.
+2014-03-30 23:38:26.180 HelloCordova[53115:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:39:58.742 HelloCordova[53420:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:39:58.752 HelloCordova[53420:80b] Unlimited access to network resources
+2014-03-30 23:39:58.787 HelloCordova[53420:80b] [CDVTimer][statusbar] 15.548050ms
+2014-03-30 23:39:58.788 HelloCordova[53420:80b] [CDVTimer][TotalPluginStartup] 16.071975ms
+2014-03-30 23:39:58.889 HelloCordova[53420:80b] Resetting plugins due to page load.
+2014-03-30 23:39:59.127 HelloCordova[53420:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:41:26.394 HelloCordova[53578:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:41:26.401 HelloCordova[53578:80b] Unlimited access to network resources
+2014-03-30 23:41:26.433 HelloCordova[53578:80b] [CDVTimer][statusbar] 11.725008ms
+2014-03-30 23:41:26.433 HelloCordova[53578:80b] [CDVTimer][TotalPluginStartup] 12.269020ms
+2014-03-30 23:41:26.502 HelloCordova[53578:80b] Resetting plugins due to page load.
+2014-03-30 23:41:26.728 HelloCordova[53578:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:41:56.118 HelloCordova[53770:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:41:56.129 HelloCordova[53770:80b] Unlimited access to network resources
+2014-03-30 23:41:56.171 HelloCordova[53770:80b] [CDVTimer][statusbar] 14.358997ms
+2014-03-30 23:41:56.172 HelloCordova[53770:80b] [CDVTimer][TotalPluginStartup] 15.008032ms
+2014-03-30 23:41:56.330 HelloCordova[53770:80b] Resetting plugins due to page load.
+2014-03-30 23:41:56.692 HelloCordova[53770:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:43:31.623 HelloCordova[53983:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:43:31.636 HelloCordova[53983:80b] Unlimited access to network resources
+2014-03-30 23:43:31.683 HelloCordova[53983:80b] [CDVTimer][statusbar] 18.824995ms
+2014-03-30 23:43:31.683 HelloCordova[53983:80b] [CDVTimer][TotalPluginStartup] 19.519031ms
+2014-03-30 23:43:31.851 HelloCordova[53983:80b] Resetting plugins due to page load.
+2014-03-30 23:43:32.222 HelloCordova[53983:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-03-30 23:45:08.565 HelloCordova[54194:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 23:45:08.579 HelloCordova[54194:80b] Unlimited access to network resources
+2014-03-30 23:45:08.636 HelloCordova[54194:80b] [CDVTimer][statusbar] 26.979029ms
+2014-03-30 23:45:08.637 HelloCordova[54194:80b] [CDVTimer][TotalPluginStartup] 27.669013ms
+2014-03-30 23:45:09.239 HelloCordova[54194:80b] Resetting plugins due to page load.
+2014-03-30 23:45:09.657 HelloCordova[54194:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-04-03 20:38:35.686 HelloCordova[56196:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 20:38:35.725 HelloCordova[56196:80b] Unlimited access to network resources
+2014-04-03 20:38:35.899 HelloCordova[56196:80b] [CDVTimer][statusbar] 52.741051ms
+2014-04-03 20:38:35.900 HelloCordova[56196:80b] [CDVTimer][TotalPluginStartup] 53.285003ms
+2014-04-03 20:38:36.061 HelloCordova[56196:80b] Resetting plugins due to page load.
+2014-04-03 20:38:36.415 HelloCordova[56196:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-04-03 20:42:42.791 HelloCordova[56365:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 20:42:42.799 HelloCordova[56365:80b] Unlimited access to network resources
+2014-04-03 20:42:42.827 HelloCordova[56365:80b] [CDVTimer][statusbar] 8.352995ms
+2014-04-03 20:42:42.828 HelloCordova[56365:80b] [CDVTimer][TotalPluginStartup] 8.892000ms
+2014-04-03 20:42:42.862 HelloCordova[56365:80b] Resetting plugins due to page load.
+2014-04-03 20:42:43.077 HelloCordova[56365:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-04-03 20:45:13.946 HelloCordova[56904:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 20:45:13.958 HelloCordova[56904:80b] Unlimited access to network resources
+2014-04-03 20:45:13.999 HelloCordova[56904:80b] [CDVTimer][statusbar] 12.846947ms
+2014-04-03 20:45:14.000 HelloCordova[56904:80b] [CDVTimer][TotalPluginStartup] 13.582051ms
+2014-04-03 20:45:14.154 HelloCordova[56904:80b] Resetting plugins due to page load.
+2014-04-03 20:45:14.526 HelloCordova[56904:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-04-03 20:47:57.701 HelloCordova[57078:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 20:47:57.709 HelloCordova[57078:80b] Unlimited access to network resources
+2014-04-03 20:47:57.743 HelloCordova[57078:80b] [CDVTimer][statusbar] 14.482021ms
+2014-04-03 20:47:57.744 HelloCordova[57078:80b] [CDVTimer][TotalPluginStartup] 15.042007ms
+2014-04-03 20:47:57.874 HelloCordova[57078:80b] Resetting plugins due to page load.
+2014-04-03 20:47:58.095 HelloCordova[57078:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-04-03 20:48:45.967 HelloCordova[57372:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 20:48:45.975 HelloCordova[57372:80b] Unlimited access to network resources
+2014-04-03 20:48:46.010 HelloCordova[57372:80b] [CDVTimer][statusbar] 14.687002ms
+2014-04-03 20:48:46.010 HelloCordova[57372:80b] [CDVTimer][TotalPluginStartup] 15.303016ms
+2014-04-03 20:48:46.110 HelloCordova[57372:80b] Resetting plugins due to page load.
+2014-04-03 20:48:46.335 HelloCordova[57372:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+Terminating in response to SpringBoard's termination.
+2014-04-03 20:49:20.737 HelloCordova[57560:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 20:49:20.750 HelloCordova[57560:80b] Unlimited access to network resources
+2014-04-03 20:49:20.806 HelloCordova[57560:80b] [CDVTimer][statusbar] 28.400004ms
+2014-04-03 20:49:20.807 HelloCordova[57560:80b] [CDVTimer][TotalPluginStartup] 29.440999ms
+2014-04-03 20:49:21.415 HelloCordova[57560:80b] Resetting plugins due to page load.
+2014-04-03 20:49:21.728 HelloCordova[57560:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/app/play
+2014-04-03 22:53:30.760 HelloCordova[58223:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 22:53:30.811 HelloCordova[58223:80b] Unlimited access to network resources
+2014-04-03 22:53:30.960 HelloCordova[58223:80b] [CDVTimer][statusbar] 45.732021ms
+2014-04-03 22:53:30.961 HelloCordova[58223:80b] [CDVTimer][TotalPluginStartup] 46.355963ms
+2014-04-03 22:53:31.121 HelloCordova[58223:80b] Resetting plugins due to page load.
+2014-04-03 22:53:31.377 HelloCordova[58223:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-03 22:54:22.182 HelloCordova[58429:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 22:54:22.211 HelloCordova[58429:80b] Unlimited access to network resources
+2014-04-03 22:54:22.316 HelloCordova[58429:80b] [CDVTimer][statusbar] 31.000018ms
+2014-04-03 22:54:22.317 HelloCordova[58429:80b] [CDVTimer][TotalPluginStartup] 31.639993ms
+2014-04-03 22:54:22.605 HelloCordova[58429:80b] Resetting plugins due to page load.
+2014-04-03 22:54:23.060 HelloCordova[58429:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-03 22:54:28.327 HelloCordova[58429:80b] Resetting plugins due to page load.
+2014-04-03 22:54:28.334 HelloCordova[58429:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 22:54:29.767 HelloCordova[58429:80b] Resetting plugins due to page load.
+2014-04-03 22:54:29.772 HelloCordova[58429:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 22:54:30.857 HelloCordova[58429:80b] Resetting plugins due to page load.
+2014-04-03 22:54:30.859 HelloCordova[58429:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 22:54:32.193 HelloCordova[58429:80b] Resetting plugins due to page load.
+2014-04-03 22:54:32.194 HelloCordova[58429:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 22:54:34.837 HelloCordova[58429:80b] Resetting plugins due to page load.
+2014-04-03 22:54:34.838 HelloCordova[58429:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 22:54:35.749 HelloCordova[58429:80b] Resetting plugins due to page load.
+2014-04-03 22:54:35.750 HelloCordova[58429:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 22:54:37.141 HelloCordova[58429:80b] Resetting plugins due to page load.
+2014-04-03 22:54:37.143 HelloCordova[58429:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:03:23.715 HelloCordova[58429:80b] Resetting plugins due to page load.
+2014-04-03 23:03:23.724 HelloCordova[58429:80b] Failed to load webpage with error: Frame load interrupted
+Terminating in response to SpringBoard's termination.
+2014-04-03 23:03:52.855 HelloCordova[58663:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 23:03:52.869 HelloCordova[58663:80b] Unlimited access to network resources
+2014-04-03 23:03:52.979 HelloCordova[58663:80b] [CDVTimer][statusbar] 23.308992ms
+2014-04-03 23:03:52.979 HelloCordova[58663:80b] [CDVTimer][TotalPluginStartup] 23.944020ms
+2014-04-03 23:03:53.557 HelloCordova[58663:80b] Resetting plugins due to page load.
+2014-04-03 23:03:53.801 HelloCordova[58663:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-03 23:03:55.625 HelloCordova[58663:80b] Resetting plugins due to page load.
+2014-04-03 23:03:55.628 HelloCordova[58663:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:03:56.246 HelloCordova[58663:80b] Resetting plugins due to page load.
+2014-04-03 23:03:56.247 HelloCordova[58663:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:03:56.944 HelloCordova[58663:80b] Resetting plugins due to page load.
+2014-04-03 23:03:56.945 HelloCordova[58663:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:03:59.074 HelloCordova[58663:80b] Resetting plugins due to page load.
+2014-04-03 23:03:59.075 HelloCordova[58663:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:03:59.601 HelloCordova[58663:80b] Resetting plugins due to page load.
+2014-04-03 23:03:59.603 HelloCordova[58663:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:04:02.901 HelloCordova[58663:80b] Resetting plugins due to page load.
+2014-04-03 23:04:02.903 HelloCordova[58663:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:04:03.722 HelloCordova[58663:80b] Resetting plugins due to page load.
+2014-04-03 23:04:03.724 HelloCordova[58663:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:04:08.306 HelloCordova[58663:80b] Resetting plugins due to page load.
+2014-04-03 23:04:08.307 HelloCordova[58663:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:04:09.369 HelloCordova[58663:80b] Resetting plugins due to page load.
+2014-04-03 23:04:09.371 HelloCordova[58663:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:05:49.205 HelloCordova[58850:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 23:05:49.249 HelloCordova[58850:80b] Unlimited access to network resources
+2014-04-03 23:05:49.672 HelloCordova[58850:80b] [CDVTimer][statusbar] 41.736007ms
+2014-04-03 23:05:49.673 HelloCordova[58850:80b] [CDVTimer][TotalPluginStartup] 42.328000ms
+2014-04-03 23:05:49.829 HelloCordova[58850:80b] Resetting plugins due to page load.
+2014-04-03 23:05:50.069 HelloCordova[58850:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-03 23:06:43.982 HelloCordova[59063:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 23:06:43.992 HelloCordova[59063:80b] Unlimited access to network resources
+2014-04-03 23:06:44.272 HelloCordova[59063:80b] [CDVTimer][statusbar] 136.576056ms
+2014-04-03 23:06:44.273 HelloCordova[59063:80b] [CDVTimer][TotalPluginStartup] 137.768984ms
+2014-04-03 23:06:44.538 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:06:44.857 HelloCordova[59063:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-03 23:06:52.022 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:06:52.030 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:06:52.911 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:06:52.916 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:06:53.629 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:06:53.633 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:06:54.501 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:06:54.505 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:06:55.689 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:06:55.693 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:06:57.833 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:06:57.837 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:06:59.009 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:06:59.013 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:07:01.749 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:07:01.751 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:07:06.388 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:07:06.393 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:07:08.389 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:07:08.390 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:07:08.925 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:07:08.926 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:07:11.869 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:07:11.871 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:07:18.334 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:07:18.339 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:07:18.990 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:07:18.995 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:07:19.463 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:07:19.467 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:07:20.793 HelloCordova[59063:80b] Resetting plugins due to page load.
+2014-04-03 23:07:20.797 HelloCordova[59063:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:08:20.733 HelloCordova[59286:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 23:08:20.763 HelloCordova[59286:80b] Unlimited access to network resources
+2014-04-03 23:08:21.000 HelloCordova[59286:80b] [CDVTimer][statusbar] 124.318004ms
+2014-04-03 23:08:21.001 HelloCordova[59286:80b] [CDVTimer][TotalPluginStartup] 124.952972ms
+2014-04-03 23:08:21.183 HelloCordova[59286:80b] Resetting plugins due to page load.
+2014-04-03 23:08:21.914 HelloCordova[59286:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-03 23:08:23.987 HelloCordova[59286:80b] Resetting plugins due to page load.
+2014-04-03 23:08:24.007 HelloCordova[59286:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:08:24.687 HelloCordova[59286:80b] Resetting plugins due to page load.
+2014-04-03 23:08:24.692 HelloCordova[59286:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:08:25.376 HelloCordova[59286:80b] Resetting plugins due to page load.
+2014-04-03 23:08:25.380 HelloCordova[59286:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:08:26.223 HelloCordova[59286:80b] Resetting plugins due to page load.
+2014-04-03 23:08:26.228 HelloCordova[59286:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:08:26.735 HelloCordova[59286:80b] Resetting plugins due to page load.
+2014-04-03 23:08:26.739 HelloCordova[59286:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:09:05.774 HelloCordova[59509:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 23:09:05.788 HelloCordova[59509:80b] Unlimited access to network resources
+2014-04-03 23:09:05.837 HelloCordova[59509:80b] [CDVTimer][statusbar] 14.617980ms
+2014-04-03 23:09:05.838 HelloCordova[59509:80b] [CDVTimer][TotalPluginStartup] 16.166031ms
+2014-04-03 23:09:06.380 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:06.602 HelloCordova[59509:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-03 23:09:09.569 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:09.575 HelloCordova[59509:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:09:10.218 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:10.223 HelloCordova[59509:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:09:11.060 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:11.062 HelloCordova[59509:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:09:11.977 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:11.979 HelloCordova[59509:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:09:15.905 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:15.906 HelloCordova[59509:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:09:17.026 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:17.028 HelloCordova[59509:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:09:17.582 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:17.584 HelloCordova[59509:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:09:18.203 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:18.204 HelloCordova[59509:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:09:19.258 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:19.259 HelloCordova[59509:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:09:19.817 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:19.819 HelloCordova[59509:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:09:21.818 HelloCordova[59509:80b] Resetting plugins due to page load.
+2014-04-03 23:09:21.819 HelloCordova[59509:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-03 23:10:22.479 HelloCordova[59722:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-03 23:10:22.490 HelloCordova[59722:80b] Unlimited access to network resources
+2014-04-03 23:10:22.540 HelloCordova[59722:80b] [CDVTimer][statusbar] 21.996021ms
+2014-04-03 23:10:22.541 HelloCordova[59722:80b] [CDVTimer][TotalPluginStartup] 22.628009ms
+2014-04-03 23:10:22.867 HelloCordova[59722:80b] Resetting plugins due to page load.
+2014-04-03 23:10:23.164 HelloCordova[59722:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+Terminating in response to SpringBoard's termination.

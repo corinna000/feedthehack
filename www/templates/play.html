@@ -1,0 +1,38 @@
+<link href='http://fonts.googleapis.com/css?family=Slackey' rel='stylesheet' type='text/css'/>
+<link type="text/css" rel="stylesheet" href="lib/slots/css/slot.css"/>
+<ion-view title="Play">
+    <ion-nav-buttons side="left">
+        <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+    </ion-nav-buttons>
+    <ion-content>
+        <div id="viewport">
+            <div id="container">
+                <div id="header">
+                    <h1>Feed the Squirrel</h1>
+
+                    <h3>Play and Win</h3>
+                </div>
+                <div id="reels">
+                    <canvas id="canvas1" width="70" height="300"></canvas>
+                    <canvas id="canvas2" width="70" height="300"></canvas>
+                    <canvas id="canvas3" width="70" height="300"></canvas>
+                    <div id="overlay">
+                        <div id="winline"></div>
+                    </div>
+                    <div id="results">
+                        <div id="score">
+                            <span id="multiplier">0</span> x <img src="lib/slots/img/gold-64.png"/>
+                        </div>
+                        <div id="status"></div>
+                    </div>
+                </div>
+                <div id="buttons">
+                    <div id="play" class="slot-button button-default" ng-click="play()">Play</div>
+                </div>
+
+                <div id="audio_debug">Audio not supported</div>
+            </div>
+        </div>
+        <input id="debug" type="button" value="Toggle Reels"/>
+    </ion-content>
+</ion-view>
