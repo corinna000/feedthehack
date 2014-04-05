@@ -10,7 +10,8 @@ angular.module('starter.controllers', ['starter.services'])
             User.auth()
                 .success(function (data) {
                     user = data;
-                    $location.path('/app/game');
+                    console.log(data);
+                    $location.path('/#/app/game');
                 })
                 .error(function () {
                     $scope.modal.show();
