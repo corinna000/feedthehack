@@ -44,6 +44,12 @@ class Module
                     $hybridAuth = $services->get('HybridAuth');
                     return new RecommendListener($authService, $hybridAuth);
                 },
+                'User\FollowListener' => function ($services) {
+                    $persistence = $services->get('User\PersistenceInterface');
+                    $authService = $services->get('zfcuser_auth_service');
+                    $hybridAuth = $services->get('HybridAuth');
+                    return new FollowListener($persistence, $authService, $hybridAuth);
+                },
                 'User\PersistenceInterface' => function ($services) {
                     $mapper = $services->get('zfcuser_user_mapper');
                     return new UserPersistence($mapper);
