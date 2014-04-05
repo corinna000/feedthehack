@@ -139,16 +139,13 @@ angular.module('starter.services', [])
 
         // /users/api/users/current
 
-        return $http({
-            method: 'GET',
-            url: '/user/api/users/current'
-        }).success(function (data, status, headers) {
-            user = data;
-            user.loggedIn = true;
-            console.log("logged in", user);
-        }).error(function () {
-            console.log("Not logged In", status);
-        });
+        var user = {
+            auth: function () {
+                var promise = $http({ method: 'GET', url: '/user/api/users/current' })
+
+                return promise;
+            }
+        };
 
     })
 
