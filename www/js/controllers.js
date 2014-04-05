@@ -1,7 +1,36 @@
 angular.module('starter.controllers', ['starter.services'])
 
-    .controller('AppCtrl', function ($scope, User) {
+    .controller('AppCtrl', function ($scope, $location, User, $ionicModal) {
         $scope.user = User;
+
+        $scope.playGame = function () {
+
+            if ($scope.user.loggedIn) {
+                $location.url('#/app/game');
+            } else {
+                $scope.modal.show();
+            }
+        };
+
+        $ionicModal.fromTemplateUrl('my-modal.html', {
+            scope: $scope,
+            animation: 'slide-in-up'
+        }).then(function(modal) {
+            $scope.modal = modal;
+        });
+
+        $scope.openModal = function() {
+            $scope.modal.show();
+        };
+
+        $scope.closeModal = function() {
+            $scope.modal.hide();
+        };
+
+        //Cleanup the modal when we're done with it!
+        $scope.$on('$destroy', function() {
+            $scope.modal.remove();
+        });
     })
 
     .controller('GameCtrl', function ($scope, $stateParams, User) {

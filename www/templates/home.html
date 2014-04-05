@@ -10,10 +10,23 @@
     <ion-content has-footer="true" style="background-image: url('img/splash.png'); background-size: 100%;">
         <div class="row row-bottom">
             <div class="col">
-                <a nav-clear class="button button-full button-positive" href="#/app/play">Play Game</a>
+                <a nav-clear class="button button-full button-positive" ng-click="playGame()">Play Game</a>
+                   <!--href="#/app/play"-->
             </div>
         </div>
     </ion-content>
+    <script id="my-modal.html" type="text/ng-template">
+        <div class="modal">
+            <ion-header-bar title="Authenticate Feed The Squirrel"></ion-header-bar>
+            <ion-content>
+                <h1>Sign in to Twitter to play Feed the Squirrel</h1>
+                <div class="button-bar">
+                    <a class="button" href="http://feed.digitalsquirrel.com/user/login/twitter?redirect=/app">Sign In</a>
+                    <a class="button" ng-click="closeModal()">Cancel</a>
+                </div>
+            </ion-content>
+        </div>
+    </script>
     <ion-footer-bar class="bar-black">
         <a class="button button-block button-dark" href="http://feed.digitalsquirrel.com/user/login/twitter?redirect=/app">Sign In</a>
     </ion-footer-bar>

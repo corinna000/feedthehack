@@ -135,26 +135,27 @@ angular.module('starter.services', [])
         }
 
     })
-    .factory('User', function ($http, $window) {
+    .factory('User', function ($http) {
 
         // /users/api/users/current
 
-        var user;
+        var user = {
+            loggedIn: false
+        };
 
         var user = $http({
             method: 'GET',
             url: '/user/api/users/current'
         }).success(function (data, status, headers) {
-           user = data;
+            user = data;
+            user.loggedIn = true;
             console.log("logged in", user);
-        }).error(function() {
+        }).error(function () {
             console.log("Not logged In", status);
-//            $window.location.assign("http://feed.digitalsquirrel.com/user/login/twitter?redirect=/app");
         });
 
         return {
-            username: user.name,
-            credits: user.credits
+            user: user
         }
     })
 
