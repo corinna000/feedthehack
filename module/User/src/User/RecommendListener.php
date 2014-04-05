@@ -1,5 +1,4 @@
 <?php
-<?php
 namespace User;
 
 use PhlyRestfully\Exception\CreationException;
