@@ -37,13 +37,12 @@ class Module
                 'User\UserResourceListener' => function ($services) {
                     $persistence = $services->get('User\PersistenceInterface');
                     $authService = $services->get('zfcuser_auth_service');
-                    return new UserResourceListener($persistence, $authService, $hybridAuth);
+                    return new UserResourceListener($persistence, $authService);
                 },
                 'User\RecommendListener' => function ($services) {
-                    $persistence = $services->get('User\PersistenceInterface');
                     $authService = $services->get('zfcuser_auth_service');
                     $hybridAuth = $services->get('HybridAuth');
-                    return new RecommendListener($persistence, $authService, $hybridAuth);
+                    return new RecommendListener($authService, $hybridAuth);
                 },
                 'User\PersistenceInterface' => function ($services) {
                     $mapper = $services->get('zfcuser_user_mapper');
