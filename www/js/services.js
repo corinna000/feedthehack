@@ -138,8 +138,9 @@ angular.module('starter.services', [])
     .factory('User', function ($http) {
 
         // /users/api/users/current
+        var user = { loggedIn: false };
 
-        var user = $http({
+        $http({
             method: 'GET',
             url: '/user/api/users/current'
         }).success(function (data, status, headers) {
