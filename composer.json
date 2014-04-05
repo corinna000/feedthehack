@@ -12,5 +12,11 @@
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.3.*",
         "socalnick/scn-social-auth": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Hybrid": "./vendor/hybridauth/hybridauth/hybridauth/"
+        },
+        "classmap": ["./vendor/hybridauth/hybridauth"]
     }
 }

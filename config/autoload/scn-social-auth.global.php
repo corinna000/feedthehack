@@ -35,7 +35,7 @@ $settings = array(
      *
      * Please specify if Facebook is enabled
      */
-    //'facebook_enabled' => true,
+    'facebook_enabled' => true,
 
     /**
      * Facebook Scope
@@ -46,7 +46,7 @@ $settings = array(
      * See the Facebook docs for a full list of available permissions:
      * http://developers.facebook.com/docs/reference/api/permissions.
      */
-    //'facebook_scope' => '',
+    'facebook_scope' => 'email',
 
     /**
      * Facebook Display
@@ -75,7 +75,7 @@ $settings = array(
      * You can register a new application at:
      * https://github.com/settings/applications/new
      */
-    'github_enabled' => true,
+    //'github_enabled' => true,
 
     /**
      * Github Scope
@@ -86,7 +86,7 @@ $settings = array(
      * See he Github docs for a full list of the available permissions:
      * http://developer.github.com/v3/oauth/#scopes
      */
-    'github_scope' => 'user:email',
+    //'github_scope' => 'user:email',
 
     /**
      * Google Enabled
