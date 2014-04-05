@@ -8,7 +8,7 @@ use Zend\EventManager\AbstractListenerAggregate;
 use Zend\EventManager\EventManagerInterface;
 use Zend\Authentication\AuthenticationService;
 
-class RecommendListener extends AbstractListenerAggregate
+class FollowListener extends AbstractListenerAggregate
 {
     protected $suggestions = array(
         array(
