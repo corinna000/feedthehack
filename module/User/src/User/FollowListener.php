@@ -10,25 +10,6 @@ use Zend\Authentication\AuthenticationService;
 
 class FollowListener extends AbstractListenerAggregate
 {
-    protected $suggestions = array(
-        array(
-            'identifier' => 298009570,
-            'name'       => 'TheNYslice',
-        ),
-        array(
-            'identifier' => 567338384,
-            'name'       => 'HashTruckIndy',
-        ),
-        array(
-            'identifier' => 148798681,
-            'name'       => 'FlynCupcake',
-        ),
-        array(
-            'identifier' => 366314590,
-            'name'       => 'SpiceBoxIndy',
-        ),
-    );
-
     protected $persistence;
 
     /**
@@ -50,7 +31,7 @@ class FollowListener extends AbstractListenerAggregate
 
     public function attach(EventManagerInterface $events)
     {
-        $this->listeners[] = $events->attach('fetchAll', array($this, 'onFetchAll'));
+        $this->listeners[] = $events->attach('create', array($this, 'onCreate'));
     }
 
     public function onCreate(ResourceEvent $e)
