@@ -42,5 +42,11 @@ return array(
                 'route_name'              => 'user/api',
             ),
         ),
+        'renderer' => array(
+            'default_hydrator' => 'ClassMethods',
+            'hydrators' => array(
+                '\User\Entity\User' => 'ClassMethods',
+            ),
+        ),
     ),
 );
