@@ -6,14 +6,20 @@ use PhlyRestfully\Exception\DomainException;
 use PhlyRestfully\ResourceEvent;
 use Zend\EventManager\AbstractListenerAggregate;
 use Zend\EventManager\EventManagerInterface;
+use Zend\Authentication\AuthenticationService;
 
 class UserResourceListener extends AbstractListenerAggregate
 {
     protected $persistence;
+    /**
+     * @var AuthenticationService
+     */
+    protected $authService;
 
-    public function __construct(UserPersistenceInterface $persistence)
+    public function __construct(UserPersistenceInterface $persistence, AuthenticationService $authService)
     {
         $this->persistence = $persistence;
+        $this->$authService = $authService;
     }
 
     public function attach(EventManagerInterface $events)
@@ -36,7 +42,12 @@ class UserResourceListener extends AbstractListenerAggregate
     public function onFetch(ResourceEvent $e)
     {
         $id = $e->getParam('id');
-        $user = $this->persistence->fetch($id);
+        if ($id == 'current') {
+            $user = $this->$authService->getIdentity();
+        }
+        else {
+            $user = $this->persistence->fetch($id);
+        }
         if (!$user) {
             throw new DomainException('User not found', 404);
         }
