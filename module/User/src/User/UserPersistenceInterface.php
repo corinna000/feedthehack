@@ -3,7 +3,7 @@ namespace User;
 
 interface UserPersistenceInterface
 {
-    public function save(array $data);
+    public function save($data);
     public function fetch($id);
     public function fetchAll();
 }
