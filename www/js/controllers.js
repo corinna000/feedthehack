@@ -15,11 +15,11 @@ angular.module('starter.controllers', ['starter.services'])
         $scope.credits = User.credits;
 
         $scope.play = function () {
-            if ($scope.credits > 0) {
-                $scope.credits = $scope.credits - 1;
+//            if ($scope.credits > 0) {
+//                $scope.credits = $scope.credits - 1;
                 angular.element('h1').text('Rollwing!');
                 slotGame.startGame();
-            }
+//            }
         };
 
     })
@@ -35,5 +35,20 @@ angular.module('starter.controllers', ['starter.services'])
     .controller('VendorsCtrl', function ($scope, $stateParams, Vendors) {
 
         $scope.vendors = Vendors.vendors;
+
+
+        $scope.vendor = undefined;
+
+        if (angular.isDefined($stateParams.vendorId)) {
+            var id = $stateParams.vendorId;
+            var i;
+
+            for (i = 0; i < $scope.vendors.length; i++) {
+                if (id == $scope.vendors[i].id) {
+                    $scope.vendor = $scope.vendors[i];
+                    break;
+                }
+            }
+        }
 
     });

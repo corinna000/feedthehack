@@ -1,4 +1,4 @@
-<ion-view title="Vendor Detail">
+<ion-view title="{{ vendor.name }}">
     <ion-nav-buttons side="left">
         <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
     </ion-nav-buttons>
@@ -7,7 +7,41 @@
             <h1 class="title">Vendor Detail</h1>
         </ion-header-bar>
         <ion-content>
-            I is a vendor
+            <h1> {{ vendor.name }} </h1>
+            <div class="list">
+
+                <div class="item item-divider">
+                    Saved Coupons
+                </div>
+
+                <span class="item">
+                    Gold: {{ vendor.stats.saved.gold}}
+                </span>
+
+                <span class="item">
+                    Silver: {{ vendor.stats.saved.silver}}
+                </span>
+
+                <span class="item">
+                    Bronze: {{ vendor.stats.saved.bronze }}
+                </span>
+
+                <div class="item item-divider">
+                    Impressions
+                </div>
+
+                <span class="item">
+                    Gold: {{ vendor.stats.impressions.gold}}
+                </span>
+
+                <span class="item">
+                    Silver: {{ vendor.stats.impressions.silver}}
+                </span>
+
+                <span class="item">
+                    Bronze: {{ vendor.stats.impressions.bronze }}
+                </span>
+            </div>
         </ion-content>
     </ion-content>
 </ion-view>
