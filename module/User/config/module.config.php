@@ -30,6 +30,15 @@ return array(
                         ),
                     ),
                 ),
+                'follow' => array(
+                    'type' => 'Segment',
+                    'options' => array(
+                        'route'      => '/api/follow',
+                        'defaults' => array(
+                            'controller' => 'User\FollowController',
+                        ),
+                    ),
+                ),
             ),
         ),
     )),
@@ -59,6 +68,16 @@ return array(
                 'page_size'               => 10,
                 'resource_http_options'   => array(),
                 'route_name'              => 'user/recommend',
+            ),
+            'User\FollowController' => array(
+                'identifier'              => 'Follow',
+                'listener'                => 'User\FollowListener',
+                'resource_identifiers'    => array('UserResource'),
+                'collection_http_options' => array('post'),
+                'collection_name'         => 'users',
+                'page_size'               => 10,
+                'resource_http_options'   => array(),
+                'route_name'              => 'user/follow',
             ),
         ),
         'renderer' => array(
