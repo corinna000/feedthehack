@@ -5,15 +5,17 @@ angular.module('starter.controllers', ['starter.services'])
 
         $scope.playGame = function () {
 
-            console.log($scope.user);
+            var user;
 
-            console.log($scope.user.loggedIn);
+            User.auth()
+                .success(function (data) {
+                    user = data;
+                    $location.url('#/app/game');
+                })
+                .error(function () {
+                    $scope.modal.show();
+                });
 
-            if ($scope.user.loggedIn) {
-                $location.url('#/app/game');
-            } else {
-                $scope.modal.show();
-            }
         };
 
         $ionicModal.fromTemplateUrl('my-modal.html', {
