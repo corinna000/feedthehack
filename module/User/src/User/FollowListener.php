@@ -46,10 +46,8 @@ class FollowListener extends AbstractListenerAggregate
             'user_id' => $data->id,
             'follow'  => 'true',
         ));
-        
-        error_log(var_export($response, true));
-        return $user;
 
+        $user->setCredits($user->getCredits() + 10);
         $user = $this->persistence->save($data);
         if (!$user) {
             throw new CreationException();

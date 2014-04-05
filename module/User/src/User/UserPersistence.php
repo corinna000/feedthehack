@@ -15,9 +15,10 @@ class UserPersistence implements UserPersistenceInterface
         $this->mapper = $mapper;
     }
 
-    public function save(array $data)
+    public function save(\User\Entity\User $user)
     {
-        // noop
+        $this->mapper->update($user);
+        return $user;
     }
 
     public function fetch($id)
