@@ -51,7 +51,7 @@ angular.module('starter.services', [])
         }
 
     })
-    .factory('User', function ($http, $location) {
+    .factory('User', function ($http, $window) {
 
         // /users/api/users/current
 
@@ -61,11 +61,11 @@ angular.module('starter.services', [])
             method: 'GET',
             url: '/user/api/users/current'
         }).success(function (data, status, headers) {
-            console.log("logged in");
            user = data;
+            console.log("logged in", user);
         }).error(function() {
-            console.log("Not logged In", status, headers);
-           $location.path('/user/login/twitter');
+            console.log("Not logged In", status);
+            $window.location("http://feed.digitalsquirrel.com/user/login/twitter?redirect=/app");
         });
 
         return {
