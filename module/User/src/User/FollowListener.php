@@ -43,7 +43,7 @@ class FollowListener extends AbstractListenerAggregate
         }
         $twitter = $this->hybridAuth->authenticate('Twitter');
         $response = $twitter->api()->api('friendships/create.json', 'post', array(
-            'user_id' => $data['id'],
+            'user_id' => $data->id,
             'follow'  => 'true',
         ));
         
