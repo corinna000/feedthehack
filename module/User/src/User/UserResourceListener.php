@@ -19,7 +19,7 @@ class UserResourceListener extends AbstractListenerAggregate
     public function __construct(UserPersistenceInterface $persistence, AuthenticationService $authService)
     {
         $this->persistence = $persistence;
-        $this->$authService = $authService;
+        $this->authService = $authService;
     }
 
     public function attach(EventManagerInterface $events)
@@ -43,7 +43,7 @@ class UserResourceListener extends AbstractListenerAggregate
     {
         $id = $e->getParam('id');
         if ($id == 'current') {
-            $user = $this->$authService->getIdentity();
+            $user = $this->authService->getIdentity();
         }
         else {
             $user = $this->persistence->fetch($id);
