@@ -35,7 +35,7 @@ $settings = array(
      *
      * Please specify if Facebook is enabled
      */
-    'facebook_enabled' => true,
+    //'facebook_enabled' => true,
 
     /**
      * Facebook Scope
@@ -46,7 +46,7 @@ $settings = array(
      * See the Facebook docs for a full list of available permissions:
      * http://developers.facebook.com/docs/reference/api/permissions.
      */
-    'facebook_scope' => 'email',
+    //'facebook_scope' => 'email',
 
     /**
      * Facebook Display
@@ -118,7 +118,7 @@ $settings = array(
      *
      * Please specify if Twitter is enabled
      */
-    //'twitter_enabled' => true,
+    'twitter_enabled' => true,
 
     /**
      * Yahoo! Enabled
