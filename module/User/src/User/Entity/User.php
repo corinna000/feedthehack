@@ -11,6 +11,11 @@ class User extends ZfcUserEntity
      */
     protected $credits;
 
+    /**
+     * @var array
+     */
+    protected $contacts;
+
     public function getCredits()
     {
         return $this->credits;
@@ -19,6 +24,17 @@ class User extends ZfcUserEntity
     public function setCredits($credits)
     {
         $this->credits = (int) $credits;
+        return $this;
+    }
+
+    public function getContacts()
+    {
+        return $this->contacts;
+    }
+
+    public function setContacts($contacts)
+    {
+        $this->contacts = $contacts;
         return $this;
     }
 }
