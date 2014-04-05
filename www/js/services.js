@@ -139,10 +139,6 @@ angular.module('starter.services', [])
 
         // /users/api/users/current
 
-        var user = {
-            loggedIn: false
-        };
-
         var user = $http({
             method: 'GET',
             url: '/user/api/users/current'
@@ -154,13 +150,7 @@ angular.module('starter.services', [])
             console.log("Not logged In", status);
         });
 
-        return {
-            credits: user.credits,
-            id: user.id,
-            loggedIn: user.loggedIn,
-            username: user.username,
-            fullName: user.display_name
-        }
+        return user;
     })
 
 ;
