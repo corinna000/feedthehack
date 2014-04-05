@@ -5,6 +5,8 @@ angular.module('starter.controllers', ['starter.services'])
 
         $scope.playGame = function () {
 
+            console.log($scope.user);
+
             if ($scope.user.loggedIn) {
                 $location.url('#/app/game');
             } else {
@@ -46,7 +48,7 @@ angular.module('starter.controllers', ['starter.services'])
         $scope.play = function () {
             if ($scope.credits > 0) {
                 $scope.credits = $scope.credits - 1;
-                angular.element('h1').text('Rollwing!');
+                angular.element('h1').text('Rolling!');
                 slotGame.startGame();
             }
         };
