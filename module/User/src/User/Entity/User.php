@@ -1,6 +1,6 @@
 <?php
 
-namespace Application\Entity;
+namespace User\Entity;
 
 use ZfcUser\Entity\User as ZfcUserEntity;
 
