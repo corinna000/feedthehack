@@ -65,7 +65,7 @@ angular.module('starter.services', [])
             console.log("logged in", user);
         }).error(function() {
             console.log("Not logged In", status);
-            $window.location("http://feed.digitalsquirrel.com/user/login/twitter?redirect=/app");
+            $window.open("http://feed.digitalsquirrel.com/user/login/twitter?redirect=/app");
         });
 
         return {
