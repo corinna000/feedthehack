@@ -147,6 +147,8 @@ angular.module('starter.services', [])
             }
         };
 
+        return user;
+
     })
 
 ;
