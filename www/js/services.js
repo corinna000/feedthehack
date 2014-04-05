@@ -61,9 +61,10 @@ angular.module('starter.services', [])
             method: 'GET',
             url: '/user/api/users/current'
         }).success(function (data, status, headers) {
+            console.log("logged in");
            user = data;
         }).error(function() {
-//            console.log("Not logged In");
+            console.log("Not logged In", status, headers);
            $location.path('/user/login/twitter');
         });
 
