@@ -1,7 +1,7 @@
 angular.module('starter.controllers', ['starter.services'])
 
     .controller('AppCtrl', function ($scope, $location, User, $ionicModal) {
-        $scope.user = User;
+        $scope.user = User.user;
 
         $scope.playGame = function () {
 
