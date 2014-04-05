@@ -23,11 +23,6 @@ class UserPersistence implements UserPersistenceInterface
     public function fetch($id)
     {
         $user = $this->mapper->findById($id);
-
-        $twitter = \Hybrid_Auth::getAdapter();
-        $contacts = $twitter->getUserContacts();
-        error_log(var_export($contacts, true));
-
         return $user;
     }
 

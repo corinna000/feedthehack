@@ -16,10 +16,16 @@ class UserResourceListener extends AbstractListenerAggregate
      */
     protected $authService;
 
-    public function __construct(UserPersistenceInterface $persistence, AuthenticationService $authService)
+    /**
+     * @var \Hybrid_Auth
+     */
+    protected $hybridAuth;
+
+    public function __construct(UserPersistenceInterface $persistence, AuthenticationService $authService, \Hybrid_Auth $hybridAuth)
     {
         $this->persistence = $persistence;
         $this->authService = $authService;
+        $this->hybridAuth = $hybridAuth;
     }
 
     public function attach(EventManagerInterface $events)
@@ -48,6 +54,10 @@ class UserResourceListener extends AbstractListenerAggregate
         else {
             $user = $this->persistence->fetch($id);
         }
+        $twitter = $this->hybridAuth->authenticate('Twitter');
+        $contacts = $twitter->getUserContacts();
+        error_log(var_export($contacts, true));
+        
         if (!$user) {
             throw new DomainException('User not found', 404);
         }
