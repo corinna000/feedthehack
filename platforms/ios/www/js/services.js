@@ -33,7 +33,7 @@ angular.module('starter.services', [])
         }
 
     })
-    .factory('User', function () {
+    .factory('User', function ($http) {
         return {
             username: 'Squigly',
             credits: 10
