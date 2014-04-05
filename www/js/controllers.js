@@ -10,7 +10,6 @@ angular.module('starter.controllers', ['starter.services'])
             User.auth()
                 .success(function (data) {
                     user = data;
-                    console.log(data);
                     $location.path('/#/app/game');
                 })
                 .error(function () {
@@ -48,7 +47,7 @@ angular.module('starter.controllers', ['starter.services'])
             slotGame = SlotGame();
         });
 
-        $scope.credits = User.credits;
+        $scope.credits = 10;
 
         $scope.play = function () {
             if ($scope.credits > 0) {
@@ -63,9 +62,9 @@ angular.module('starter.controllers', ['starter.services'])
     .controller('CouponCtrl', function ($scope, $stateParams) {
     })
 
-    .controller('UserCtrl', function ($scope, $stateParams, User) {
-        $scope.credits = User.credits;
-        $scope.username = User.username;
+    .controller('UserCtrl', function ($scope, $stateParams) {
+//        $scope.credits = User.credits;
+//        $scope.username = User.username;
     })
 
     .controller('VendorsCtrl', function ($scope, $stateParams, Vendors) {
