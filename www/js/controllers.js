@@ -7,6 +7,8 @@ angular.module('starter.controllers', ['starter.services'])
 
             console.log($scope.user);
 
+            console.log($scope.user.loggedIn);
+
             if ($scope.user.loggedIn) {
                 $location.url('#/app/game');
             } else {
