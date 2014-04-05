@@ -155,7 +155,11 @@ angular.module('starter.services', [])
         });
 
         return {
-            user: user
+            credits: user.credits,
+            id: user.id,
+            loggedIn: user.loggedIn,
+            username: user.username,
+            fullName: user.display_name
         }
     })
 
