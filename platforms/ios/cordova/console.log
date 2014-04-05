@@ -311,3 +311,203 @@ Terminating in response to SpringBoard's termination.
 2014-04-03 23:10:22.867 HelloCordova[59722:80b] Resetting plugins due to page load.
 2014-04-03 23:10:23.164 HelloCordova[59722:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
 Terminating in response to SpringBoard's termination.
+2014-04-05 10:58:23.095 HelloCordova[61740:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 10:58:23.133 HelloCordova[61740:80b] Unlimited access to network resources
+2014-04-05 10:58:23.717 HelloCordova[61740:80b] [CDVTimer][statusbar] 58.421016ms
+2014-04-05 10:58:23.717 HelloCordova[61740:80b] [CDVTimer][TotalPluginStartup] 59.024036ms
+2014-04-05 10:58:23.946 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:58:24.460 HelloCordova[61740:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 10:58:27.463 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:58:27.470 HelloCordova[61740:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 10:58:29.941 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:58:29.943 HelloCordova[61740:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 10:58:31.463 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:58:31.465 HelloCordova[61740:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 10:58:31.913 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:58:31.915 HelloCordova[61740:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 10:58:33.643 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:58:34.973 HelloCordova[61740:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 10:58:34.975 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:58:34.978 HelloCordova[61740:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 10:58:35.683 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:58:35.685 HelloCordova[61740:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 10:58:36.323 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:58:36.328 HelloCordova[61740:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 10:58:37.201 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:58:37.204 HelloCordova[61740:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 10:58:39.355 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:58:39.356 HelloCordova[61740:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 10:59:06.253 HelloCordova[61740:80b] Resetting plugins due to page load.
+2014-04-05 10:59:07.702 HelloCordova[61740:80b] Finished load of: https://api.twitter.com/oauth/authorize?oauth_token=yOWYSErFBKm038xPdjcbWCq4SrqnTiNLWPsVtXx0
+2014-04-05 10:59:55.199 HelloCordova[61999:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 10:59:55.213 HelloCordova[61999:80b] Unlimited access to network resources
+2014-04-05 10:59:55.334 HelloCordova[61999:80b] [CDVTimer][statusbar] 22.864044ms
+2014-04-05 10:59:55.335 HelloCordova[61999:80b] [CDVTimer][TotalPluginStartup] 23.924053ms
+2014-04-05 10:59:55.519 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 10:59:56.742 HelloCordova[61999:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 10:59:58.519 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 10:59:58.522 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 10:59:59.840 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 10:59:59.842 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:00.479 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:00.481 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:01.424 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:01.426 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:01.858 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:01.860 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:02.353 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:02.355 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:02.770 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:02.771 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:03.535 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:03.540 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:03.920 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:03.922 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:19.780 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:19.790 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:20.473 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:20.475 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:22.768 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:22.770 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:23.437 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:23.439 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:00:23.830 HelloCordova[61999:80b] Resetting plugins due to page load.
+2014-04-05 11:00:23.832 HelloCordova[61999:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:10:20.848 HelloCordova[62524:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 11:10:20.883 HelloCordova[62524:80b] Unlimited access to network resources
+2014-04-05 11:10:21.089 HelloCordova[62524:80b] [CDVTimer][statusbar] 71.730971ms
+2014-04-05 11:10:21.090 HelloCordova[62524:80b] [CDVTimer][TotalPluginStartup] 72.229981ms
+2014-04-05 11:10:21.216 HelloCordova[62524:80b] Resetting plugins due to page load.
+2014-04-05 11:10:21.691 HelloCordova[62524:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 11:12:36.784 HelloCordova[62755:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 11:12:36.793 HelloCordova[62755:80b] Unlimited access to network resources
+2014-04-05 11:12:36.837 HelloCordova[62755:80b] [CDVTimer][statusbar] 17.093003ms
+2014-04-05 11:12:36.838 HelloCordova[62755:80b] [CDVTimer][TotalPluginStartup] 17.756045ms
+2014-04-05 11:12:36.996 HelloCordova[62755:80b] Resetting plugins due to page load.
+2014-04-05 11:12:37.932 HelloCordova[62755:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 11:12:45.522 HelloCordova[62755:80b] Resetting plugins due to page load.
+2014-04-05 11:12:45.529 HelloCordova[62755:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:12:46.248 HelloCordova[62755:80b] Resetting plugins due to page load.
+2014-04-05 11:12:46.250 HelloCordova[62755:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:12:47.082 HelloCordova[62755:80b] Resetting plugins due to page load.
+2014-04-05 11:12:47.115 HelloCordova[62755:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:15:04.726 HelloCordova[62755:80b] Resetting plugins due to page load.
+2014-04-05 11:15:04.734 HelloCordova[62755:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:15:05.328 HelloCordova[62755:80b] Resetting plugins due to page load.
+2014-04-05 11:15:05.330 HelloCordova[62755:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:22:28.186 HelloCordova[63042:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 11:22:28.220 HelloCordova[63042:80b] Unlimited access to network resources
+2014-04-05 11:22:28.386 HelloCordova[63042:80b] [CDVTimer][statusbar] 50.194025ms
+2014-04-05 11:22:28.386 HelloCordova[63042:80b] [CDVTimer][TotalPluginStartup] 50.788999ms
+2014-04-05 11:22:28.688 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:29.611 HelloCordova[63042:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 11:22:31.776 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:31.781 HelloCordova[63042:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:22:32.922 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:32.924 HelloCordova[63042:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:22:33.618 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:33.620 HelloCordova[63042:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:22:34.871 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:36.317 HelloCordova[63042:80b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-04-05 11:22:36.317 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:36.319 HelloCordova[63042:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:22:37.484 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:37.487 HelloCordova[63042:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:22:38.318 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:38.320 HelloCordova[63042:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:22:40.549 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:42.269 HelloCordova[63042:80b] Finished load of: https://api.twitter.com/oauth/authorize?oauth_token=xo1cgejm5fEkrnZMBW88rZu8pue1bDpczAvlj4QlfU
+2014-04-05 11:22:45.816 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:45.958 HelloCordova[63042:80b] Finished load of: https://api.twitter.com/oauth/authorize
+2014-04-05 11:22:48.732 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:49.154 HelloCordova[63042:80b] Finished load of: http://feed.digitalsquirrel.com/user/authenticate/twitter
+2014-04-05 11:22:53.572 HelloCordova[63042:80b] Resetting plugins due to page load.
+2014-04-05 11:22:53.677 HelloCordova[63042:80b] Finished load of: http://feed.digitalsquirrel.com/
+2014-04-05 11:24:42.640 HelloCordova[63291:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 11:24:42.672 HelloCordova[63291:80b] Unlimited access to network resources
+2014-04-05 11:24:42.885 HelloCordova[63291:80b] [CDVTimer][statusbar] 80.370009ms
+2014-04-05 11:24:42.886 HelloCordova[63291:80b] [CDVTimer][TotalPluginStartup] 81.160009ms
+2014-04-05 11:24:43.163 HelloCordova[63291:80b] Resetting plugins due to page load.
+2014-04-05 11:24:43.951 HelloCordova[63291:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 11:26:30.598 HelloCordova[63291:80b] Resetting plugins due to page load.
+2014-04-05 11:26:30.604 HelloCordova[63291:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:26:33.922 HelloCordova[63291:80b] Resetting plugins due to page load.
+2014-04-05 11:26:35.837 HelloCordova[63291:80b] Finished load of: https://api.twitter.com/oauth/authorize?oauth_token=7emnqTtrvtup3f6O2jRgcNJycRRdGs7sBQ6kr0yZYvM
+2014-04-05 11:27:00.623 HelloCordova[63291:80b] Resetting plugins due to page load.
+2014-04-05 11:27:01.588 HelloCordova[63291:80b] Finished load of: https://api.twitter.com/oauth/authorize
+2014-04-05 11:27:01.590 HelloCordova[63291:80b] Resetting plugins due to page load.
+2014-04-05 11:27:03.166 HelloCordova[63291:80b] Finished load of: http://feed.digitalsquirrel.com/user/authenticate/twitter
+2014-04-05 11:28:15.415 HelloCordova[63608:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 11:28:15.446 HelloCordova[63608:80b] Unlimited access to network resources
+2014-04-05 11:28:15.685 HelloCordova[63608:80b] [CDVTimer][statusbar] 124.647975ms
+2014-04-05 11:28:15.686 HelloCordova[63608:80b] [CDVTimer][TotalPluginStartup] 125.292003ms
+2014-04-05 11:28:15.870 HelloCordova[63608:80b] Resetting plugins due to page load.
+2014-04-05 11:28:17.244 HelloCordova[63608:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 11:28:19.114 HelloCordova[63608:80b] Resetting plugins due to page load.
+2014-04-05 11:28:19.120 HelloCordova[63608:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:28:26.521 HelloCordova[63608:80b] Resetting plugins due to page load.
+2014-04-05 11:28:26.524 HelloCordova[63608:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:28:29.856 HelloCordova[63608:80b] Resetting plugins due to page load.
+2014-04-05 11:28:29.858 HelloCordova[63608:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:28:32.696 HelloCordova[63608:80b] Resetting plugins due to page load.
+2014-04-05 11:28:32.698 HelloCordova[63608:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:28:38.598 HelloCordova[63608:80b] Resetting plugins due to page load.
+2014-04-05 11:28:40.098 HelloCordova[63608:80b] Finished load of: https://api.twitter.com/oauth/authorize?oauth_token=tp8wU4qsfVJ1T1lV9ef29PrUh1dpIS4LU8JqPC5aGY0
+2014-04-05 11:29:11.999 HelloCordova[63608:80b] Resetting plugins due to page load.
+2014-04-05 11:29:13.037 HelloCordova[63608:80b] Finished load of: https://api.twitter.com/oauth/authorize
+2014-04-05 11:29:13.038 HelloCordova[63608:80b] Resetting plugins due to page load.
+2014-04-05 11:29:13.883 HelloCordova[63608:80b] Finished load of: http://feed.digitalsquirrel.com/user
+2014-04-05 11:29:25.212 HelloCordova[63608:80b] Resetting plugins due to page load.
+2014-04-05 11:29:25.343 HelloCordova[63608:80b] Finished load of: http://feed.digitalsquirrel.com/
+2014-04-05 11:32:46.019 HelloCordova[63893:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 11:32:46.059 HelloCordova[63893:80b] Unlimited access to network resources
+2014-04-05 11:32:46.321 HelloCordova[63893:80b] [CDVTimer][statusbar] 65.833986ms
+2014-04-05 11:32:46.322 HelloCordova[63893:80b] [CDVTimer][TotalPluginStartup] 66.459000ms
+2014-04-05 11:32:46.726 HelloCordova[63893:80b] Resetting plugins due to page load.
+2014-04-05 11:32:47.327 HelloCordova[63893:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 11:32:48.588 HelloCordova[63893:80b] Resetting plugins due to page load.
+2014-04-05 11:32:48.592 HelloCordova[63893:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:32:52.961 HelloCordova[63893:80b] Resetting plugins due to page load.
+2014-04-05 11:32:52.964 HelloCordova[63893:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:33:43.165 HelloCordova[64122:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 11:33:43.177 HelloCordova[64122:80b] Unlimited access to network resources
+2014-04-05 11:33:43.236 HelloCordova[64122:80b] [CDVTimer][statusbar] 16.039968ms
+2014-04-05 11:33:43.236 HelloCordova[64122:80b] [CDVTimer][TotalPluginStartup] 16.673028ms
+2014-04-05 11:33:43.395 HelloCordova[64122:80b] Resetting plugins due to page load.
+2014-04-05 11:33:43.805 HelloCordova[64122:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 11:33:45.314 HelloCordova[64122:80b] Resetting plugins due to page load.
+2014-04-05 11:33:45.317 HelloCordova[64122:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:34:02.254 HelloCordova[64122:80b] Resetting plugins due to page load.
+2014-04-05 11:34:02.256 HelloCordova[64122:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:35:24.582 HelloCordova[64375:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 11:35:24.616 HelloCordova[64375:80b] Unlimited access to network resources
+2014-04-05 11:35:24.809 HelloCordova[64375:80b] [CDVTimer][statusbar] 54.643035ms
+2014-04-05 11:35:24.809 HelloCordova[64375:80b] [CDVTimer][TotalPluginStartup] 55.175960ms
+2014-04-05 11:35:25.097 HelloCordova[64375:80b] Resetting plugins due to page load.
+2014-04-05 11:35:25.794 HelloCordova[64375:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 11:36:18.255 HelloCordova[64375:80b] Resetting plugins due to page load.
+2014-04-05 11:36:18.262 HelloCordova[64375:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:36:52.078 HelloCordova[64617:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 11:36:52.101 HelloCordova[64617:80b] Unlimited access to network resources
+2014-04-05 11:36:52.641 HelloCordova[64617:80b] [CDVTimer][statusbar] 504.296005ms
+2014-04-05 11:36:52.641 HelloCordova[64617:80b] [CDVTimer][TotalPluginStartup] 504.969001ms
+2014-04-05 11:36:52.784 HelloCordova[64617:80b] Resetting plugins due to page load.
+2014-04-05 11:36:53.226 HelloCordova[64617:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 11:37:33.352 HelloCordova[64617:80b] Resetting plugins due to page load.
+2014-04-05 11:37:33.356 HelloCordova[64617:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:37:50.482 HelloCordova[64617:80b] Resetting plugins due to page load.
+2014-04-05 11:37:50.492 HelloCordova[64617:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:37:51.576 HelloCordova[64617:80b] Resetting plugins due to page load.
+2014-04-05 11:37:51.578 HelloCordova[64617:80b] Failed to load webpage with error: Frame load interrupted
+2014-04-05 11:38:34.514 HelloCordova[64617:80b] Resetting plugins due to page load.
+2014-04-05 11:38:34.516 HelloCordova[64617:80b] Failed to load webpage with error: Frame load interrupted
+Terminating in response to SpringBoard's termination.
+2014-04-05 11:40:14.278 HelloCordova[64881:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 11:40:14.308 HelloCordova[64881:80b] Unlimited access to network resources
+2014-04-05 11:40:14.559 HelloCordova[64881:80b] [CDVTimer][statusbar] 102.472007ms
+2014-04-05 11:40:14.559 HelloCordova[64881:80b] [CDVTimer][TotalPluginStartup] 103.112996ms
+2014-04-05 11:40:14.825 HelloCordova[64881:80b] Resetting plugins due to page load.
+2014-04-05 11:40:15.872 HelloCordova[64881:80b] Finished load of: file:///Users/corinnacohn/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/F4C81CAA-1A63-4394-BB7C-FFAD39A05401/HelloCordova.app/www/index.html#/home
+2014-04-05 11:40:17.922 HelloCordova[64881:80b] Loading Game
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096

@@ -3,7 +3,7 @@ angular.module('starter.controllers', ['starter.services'])
     .controller('AppCtrl', function ($scope) {
     })
 
-    .controller('GameCtrl', function ($scope, $stateParams) {
+    .controller('GameCtrl', function ($scope, $stateParams, User) {
 
         var slotGame;
 
@@ -11,9 +11,14 @@ angular.module('starter.controllers', ['starter.services'])
             slotGame = SlotGame();
         });
 
+        $scope.credits = User.credits;
+
         $scope.play = function () {
-            angular.element('h1').text('Rollwing!');
-            slotGame.startGame();
+            if ($scope.credits > 0) {
+                $scope.credits = $scope.credits - 1;
+                angular.element('h1').text('Rollwing!');
+                slotGame.startGame();
+            }
         };
 
     })

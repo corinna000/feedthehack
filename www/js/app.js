@@ -68,6 +68,15 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
                         controller: 'VendorsCtrl'
                     }
                 }
+            })
+            .state('app.vendors/:vendorId', {
+                url: '/vendors/:vendorId',
+                views: {
+                    'menuContent': {
+                        templateUrl: 'templates/vendor_details.html',
+                        controller: 'VendorsCtrl'
+                    }
+                }
             });
         // if none of the above states are matched, use this as the fallback
         $urlRouterProvider.otherwise('/home');

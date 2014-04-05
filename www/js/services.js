@@ -5,38 +5,70 @@ angular.module('starter.services', [])
         return {
             vendors: [
                 {
+                    id: 1,
                     name: 'The Flavor Truck',
-                    logo: 'flavor_truck_logo.png',
+                    logo: 'flavor_truck_64.png',
                     twitterId: '1234567'
                 },
                 {
+                    id: 2,
+                    name: 'Flying Cupcake',
+                    logo: 'flying_cupcake_64.png',
+                    twitterId: '1234567'
+                },
+
+                {
+                    id: 3,
+                    name: 'The NY Slice',
+                    logo: 'ny_slice_64.png',
+                    twitterId: '1234567'
+                },
+                {
+                    id: 4,
                     name: 'Citizen Hash',
-                    logo: 'citizen_hash.png',
+                    logo: 'citizen_hash_64.png',
                     twitterId: '1234568'
                 },
                 {
-                    name: 'Nicey Treat',
-                    logo: 'nicey_treat.png',
+                    id: 5,
+                    name: 'Spice Box',
+                    logo: 'spice_box_64.png',
                     twitterId: '1234572'
                 },
                 {
+                    id: 6,
                     name: 'Taste the Caribbean',
-                    logo: 'taste_the_caribbean.png',
+                    logo: 'taste_of_caribbean_64.png',
                     twitterId: '1234570'
                 },
                 {
+                    id: 7,
                     name: 'Big Ron\'s Bistro',
-                    logo: 'big_rons_bistro.png',
+                    logo: 'big_rons_bistro_64.png',
                     twitterId: '1234571'
                 }
             ]
         }
 
     })
-    .factory('User', function ($http) {
+    .factory('User', function ($http, $location) {
+
+        // /users/api/users/current
+
+        var user;
+
+        var user = $http({
+            method: 'GET',
+            url: '/users/api/users/current'
+        }).success(function (data, status, headers) {
+           user = data;
+        }).failure(function() {
+           $location.path('/user/login/twitter');
+        });
+
         return {
-            username: 'Squigly',
-            credits: 10
+            username: user.name,
+            credits: user.credits
         }
     })
 

@@ -4,6 +4,18 @@ angular.module('starter.controllers', ['starter.services'])
     })
 
     .controller('GameCtrl', function ($scope, $stateParams) {
+
+        var slotGame;
+
+        ionic.Platform.ready(function () {
+            slotGame = SlotGame();
+        });
+
+        $scope.play = function () {
+            angular.element('h1').text('Rollwing!');
+            slotGame.startGame();
+        };
+
     })
 
     .controller('CouponCtrl', function ($scope, $stateParams) {

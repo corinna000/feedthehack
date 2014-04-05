@@ -8,8 +8,9 @@
         </ion-header-bar>
         <ion-content>
             <ion-list>
-                <ion-item ng-repeat="vendor in vendors">
-                    {{ vendor.name }}
+                <ion-item ng-repeat="vendor in vendors" href="#/app/vendors/{{vendor.id}}">
+                    <!--<img ng-src="img/trucks/{{ vendor.logo }}" />-->
+                    <h3>{{ vendor.name }}</h3>
                 </ion-item>
             </ion-list>
         </ion-content>
