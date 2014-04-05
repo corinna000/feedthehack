@@ -209,14 +209,50 @@ function SlotGame() {
 
     var items = [
 //        {id: 'big_rons_bistro_64'},
-        {id: 'citizen_hash_64'},
+        {
+            id: 'citizen_hash_64',
+            silver: 'Free Drink with Entree',
+            gold: 'Free Entree with Purchase of Entree',
+            bronze: '50 cents off entree',
+            name: 'Big Ron\'s Bistro'
+        },
 //        {id: 'flavor_truck_64'},
-        {id: 'flying_cupcake_64'},
-        {id: 'ny_slice_64'},
-        {id: 'spice_box_64'},
+        {
+            id: 'flying_cupcake_64',
+            silver: 'Buy 3 Cupcakes Get 1 Free',
+            gold: 'Free Cupcake with Purchase of Cupcake',
+            bronze: '50 cents off cupcake',
+            name: 'Flying Cupcake'
+        },
+        {
+            id: 'ny_slice_64',
+            silver: 'Free Drink with Slice of Pizza',
+            gold: 'Free Slice of Pizza with Drink Purchase',
+            bronze: '50 cents off Pizza Slice',
+            name: 'The NY Slice'
+        },
+        {
+            id: 'spice_box_64',
+            silver: 'Free Drink with Entree',
+            gold: 'Free Entree with Purchase of Entree',
+            bronze: '50 cents off entree',
+            name: 'Spice Box'
+        },
 //        {id: 'taste_of_caribbean_64'},
-        {id: 'acorn_64'},
-        {id: 'squirrel_64'}
+        {
+            id: 'acorn_64',
+            silver: '',
+            gold: 'SO CLOSE! Please Try Again',
+            bronze: '',
+            name: 'You Lose!'
+        },
+        {
+            silver: '',
+            gold: 'SO CLOSE! Please Try Again',
+            bronze: '',
+            name: 'You Lose!',
+            id: 'squirrel_64'
+        }
     ];
     // Audio file names
     var audios = [
@@ -392,8 +428,16 @@ Game.prototype.update = function () {
     var now = new Date();
     var that = this;
 
+
     // Check slot status and if spun long enough stop it on result
     function _check_slot(offset, result) {
+
+        function _find(items, id) {
+            for (var i = 0; i < items.length; i++) {
+                if (items[i].id == id) return i;
+            }
+        }
+
         // fixes infinite spinniing bug hopefully, but debug here
 //        console.log('checkslot now, lastUPdate', now - that.lastUpdate, SPINTIME);
 
@@ -411,6 +455,12 @@ Game.prototype.update = function () {
             }
         }
         return false;
+    }
+
+    function _findItem(items, id) {
+        for (var i = 0; i < items.length; i++) {
+            if (items[i].id == id) return items[i];
+        }
     }
 
     switch (this.state) {
@@ -465,23 +515,47 @@ Game.prototype.update = function () {
 //        if (that.items2[that.result2].id == 'gold-64') ec++;
 //        if (that.items3[that.result3].id == 'gold-64') ec++;
 
+            var prizeText;
+
+            // match 2
+            // res1 matches 2 or 3
+            if (res1 == res2 || res1 == res3) {
+                ec = 2;
+                this.winner = res1;
+                $('#prize-vendor').text(_findItem(that.items1, res1).name);
+                $('#prize').text(_findItem(that.items1, res1).silver);
+            }
+
+            if (res2 == res3) {
+                ec = 2;
+                this.winner = res2;
+                $('#prize-vendor').text(_findItem(that.items2, res2).name);
+                $('#prize').text(_findItem(that.items2, res2).silver);
+            }
 
             // jackpot
             if (res1 == res2 == res3) {
                 ec = 3;
-                $('#status').text(BLURB_TBL[ec]);
+//                $('#status').text(BLURB_TBL[ec]);
+                this.winner = res1;
+
+                $('#prize-vendor').text(_findItem(that.items1, res1).name);
+                $('#prize').text(_findItem(that.items1, res1).gold);
             }
 
-            // match 2
-            if (res1 == res2 || res1 == res3 || res2 == res3) {
-                ec = 2;
-                $('#status').text(BLURB_TBL[ec]);
-
+            if (ec < 2) {
+                ec = 1;
+                this.winner = res3;
+                $('#prize-vendor').text(_findItem(that.items3, res3).name);
+                $('#prize').text(_findItem(that.items3, res3).bronze);
             }
+
 
             $('#multiplier').text(ec);
 
-            $('#status').text(BLURB_TBL[ec]);
+//            $('#status').text(BLURB_TBL[ec]);
+
+            console.log('winner', this.winner);
 
             if (ec) {
                 // Play win sound
