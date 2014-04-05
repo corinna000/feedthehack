@@ -44,11 +44,11 @@ angular.module('starter.controllers', ['starter.services'])
         $scope.credits = User.credits;
 
         $scope.play = function () {
-//            if ($scope.credits > 0) {
-//                $scope.credits = $scope.credits - 1;
+            if ($scope.credits > 0) {
+                $scope.credits = $scope.credits - 1;
                 angular.element('h1').text('Rollwing!');
                 slotGame.startGame();
-//            }
+            }
         };
 
     })
