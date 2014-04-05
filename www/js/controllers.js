@@ -1,6 +1,7 @@
 angular.module('starter.controllers', ['starter.services'])
 
-    .controller('AppCtrl', function ($scope) {
+    .controller('AppCtrl', function ($scope, User) {
+        $scope.user = User;
     })
 
     .controller('GameCtrl', function ($scope, $stateParams, User) {
